@@ -22,20 +22,20 @@ Web框架：SpringMVC
 
 # 功能模块介绍
 ### 1、登录模块功能
-![](\images\login.png)
+![](https://github.com/wesley0709/RecommendSystem/raw/master/images/login.png)
 ### 2、主页模块功能
-![](\images\index.png)
+![](https://github.com/wesley0709/RecommendSystem/blob/master/images/index.png)
 
 ### 3、热门推荐模块功能
-![](\images\hot.png)
+![](https://github.com/wesley0709/RecommendSystem/blob/master/images/hot.png)
 
 ### 4、我的评分模块功能
-![](\images\score.png)
+![](https://github.com/wesley0709/RecommendSystem/blob/master/images/score.png)
 
 ### 5、电影详细信息模块功能
 
-![](F:\RecommendSystem\images\more.png)
+![](https://github.com/wesley0709/RecommendSystem/blob/master/images/more.png)
 
 ### 6、我的评分模块功能
 
-![](\images\score.png)
+![](https://github.com/wesley0709/RecommendSystem/blob/master/images/score.png)
