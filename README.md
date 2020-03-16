@@ -18,7 +18,7 @@ Web框架：SpringMVC
 
 前端框架：Bootstrap
 
-编程语言:Scala
+编程语言:Scala + Java
 
 # 功能模块介绍
 ### 1、登录模块功能
